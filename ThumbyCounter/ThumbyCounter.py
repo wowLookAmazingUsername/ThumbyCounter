@@ -6,6 +6,10 @@ from engine_nodes import CameraNode, Text2DNode, EmptyNode
 from engine_math import Vector2
 from time import sleep_ms
 
+#ThumbyCounter for Thumby Color
+#v1.0
+#by Zenghiok Ng
+
 engine.fps_limit(30)
 camera = CameraNode()
 
